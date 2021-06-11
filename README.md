@@ -1,0 +1,2 @@
+# Vysledky-exportu-PyViz-NS3
+EXPORT VIZUALIZÁCIE PROJEKTU NS3
